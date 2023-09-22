@@ -1,7 +1,7 @@
 export const Home = () =>{
     return(
         <>
-        <h1 className="font-bold bg-emerald-950">ola fodase</h1>
+        <h1 className="font-bold bg-emerald-950 m p" >ola fodaser</h1>
         </>
     )
 }
